@@ -1,3 +1,5 @@
 node_modules/
 dist/js/
 dist/style.css
+package-lock.json
+
